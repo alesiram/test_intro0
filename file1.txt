@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Marisela bye
 93939393
 Dakota
 Apple
+=======
+Hello friend
+>>>>>>> cebc01641cbd15a1d78b929d80b1fa9907ec12fe
